@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 68.7797,
+        "lat": 38.5577
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 291.05,
+        "feels_like": 289.55,
+        "temp_min": 291.05,
+        "temp_max": 291.05,
+        "pressure": 1024,
+        "humidity": 25
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6,
+        "deg": 90
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1677578116,
+    "sys": {
+        "type": 1,
+        "id": 8996,
+        "country": "TJ",
+        "sunrise": 1677549577,
+        "sunset": 1677590148
+    },
+    "timezone": 18000,
+    "id": 7280679,
+    "name": "Dushanbe",
+    "cod": 200
+}
